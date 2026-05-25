@@ -66,7 +66,7 @@ Atividades de extensão e visitas técnicas em campo para abordar aspectos étic
 
 ---
 
-**10. Responsável:** 
+**10. Responsável:**  
 N° USP 5053200 Nome: Gustavo Pamplona Rehder  
 N° USP 285012 Nome: Ariana Lacorte Caniato Serrano  
 N° USP [Não Informado] Nome: Ronaldo Mansano  
