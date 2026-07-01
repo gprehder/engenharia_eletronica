@@ -162,7 +162,7 @@ Experimental activities involve the assembly and measurement of reactive circuit
 
 **18. Normas de recuperação:**
 * [texto em português]: A recuperação será focada nos tópicos de maior dificuldade identificados durante o semestre. O aluno deverá realizar estudos dirigidos e exercícios complementares sobre os conteúdos específicos não atingidos, seguidos de uma nova avaliação para verificar a superação das deficiências.
-* [texto em inglês]: Remedial work will focus on the topics of greatest difficulty identified during the semester. Students must complete guided studies and complementary exercises on the specific contents (Mechanics or Materials) that were not mastered, followed by a new assessment to verify the resolution of learning gaps.
+* [texto em inglês]: Remedial work will focus on the topics of greatest difficulty identified during the semester. Students must complete guided studies and complementary exercises on the specific contents that were not mastered, followed by a new assessment to verify the resolution of learning gaps.
 
 ---
 
