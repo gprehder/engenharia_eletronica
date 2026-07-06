@@ -1,13 +1,13 @@
 ## Programa Completo de Disciplina / Complete Discipline Program
 
-**1. Código:** PSI0123  
+**1. Código:** PSI0221  
 **Ano:** 2027
 
 ---
 
 **2. Nome da Disciplina:**  
-Circuitos Elétricos 2  
-Electric Circuits 2
+Circuitos Elétricos 3  
+Electric Circuits 3
 
 ---
 
@@ -79,41 +79,66 @@ N° USP 63599 Nome: Vítor Heloiz Nascimento
 ---
 
 **12. Ementa:**
-* [texto em português]: O curso analisará circuitos elétricos de 1ª e 2ª ordens e também explorará as transformadas de Laplace e séries de Fourier na análise de circuitos. 
+* [texto em português]: Este componente curricular aborda a análise de circuitos com resistores, capacitores e indutores em regime permanente senoidal, contemplando a aplicação de métodos fasoriais, Leis de Kirchhoff e técnicas de simplificação. Engloba o estudo de potência e energia em corrente alternada, fator de potência e análise de resposta em frequência, bem como o uso de amplificadores operacionais. As atividades integram modelagem teórica, simulação computacional, validação experimental por meio da montagem e medição de circuitos, e projeto de circuitos a partir de especificações.
 
-* [texto em inglês]: The course covers the analysis of first and second-order electric circuits, as well as the application of Laplace transforms and Fourier series to circuit theory.
+* [texto em inglês]: This course addresses the analysis of circuits containing resistors, capacitors, and inductors in the sinusoidal steady-state, including the application of phasor methods, Kirchhoff’s Laws, and circuit simplification techniques. It encompasses the study of power and energy in alternating current, power factor, and frequency response analysis, as well as the use of operational amplifiers. Activities integrate theoretical modeling, computational simulation, experimental validation through circuit assembly and measurement, and circuit design based on given specifications.
 
 ---
 
 **13 Objetivo:** 
-* [texto em português]: A disciplina tem como foco o desenvolvimento das competências nas proporções estabelecidas pelo projeto pedagógico. Para isso, os seguintes Objetivos de Aprendizagem foram estabelecidos:
+* [texto em português]: A disciplina tem como foco o desenvolvimento das competências nas proporções estabelecidas pelo projeto pedagógico. Para isso, estabelecem-se os seguintes objetivos de aprendizagem:
 
-    1.	Analisar e simular a resposta transiente de circuitos de 1ª e 2ª ordens
-    2.	Analisar circuitos elétricos utilizando transformada de Laplace
-    3.	Analisar circuitos elétricos alimentados por sinais periódicos usando a série de Fourier
-    4.	Calcular funções de rede de circuitos elétricos
-    5.	Analisar a estabilidade de circuitos 
-    6.	Projetar circuitos para filtragem de sinais
+    1.	Analisar, simular e caracterizar circuitos empregando amplificadores operacionais ideais e reais.
+    2.	Aplicar as relações constitutivas de capacitores e indutores, bem como os conceitos de potência e energia associados a esses elementos.
+    3.	Representar grandezas senoidais por meio de fasores nas formas polar e retangular, estabelecendo relações fasoriais em bipolos.
+    4.	Aplicar os conceitos de impedância e admitância em circuitos de corrente alternada.
+    5.	Aplicar e validar experimentalmente as Leis de Kirchhoff no domínio fasorial.
+    6.	Analisar circuitos em Regime Permanente Senoidal (RPS), incluindo configurações com indutância mútua, por análise nodal e de malhas.
+    7.	Empregar técnicas de simplificação de circuitos em RPS, incluindo circuitos equivalentes de Thévenin e Norton.
+    8.	Analisar a resposta em frequência de circuitos passivos, através de expressões analíticas
+    9.	Simular e montar em laboratório circuitos em RPS envolvendo resistores, capacitores, indutores e amplificadores operacionais.
+    10.	Medir e interpretar respostas em frequência de circuitos reais.
+    11.	Avaliar potência e energia em RPS, distinguindo componentes ativa, reativa e aparente.
+    12.	Medir potência elétrica e fator de potência, correlacionando resultados teóricos, simulados e experimentais.
+    13.	Projetar circuitos operando em regime permanente senoidal e filtros simples para atender especificações de ganho, frequência de operação ou banda passante.
 
 
 
-* [texto em inglês]: The course focuses on developing the competencies in the proportions established by the pedagogical project. For this purpose, the following Learning Objectives have been established:
+* [texto em inglês]:This course is designed to develop the competencies defined in accordance with the guidelines established in the pedagogical project. To this end, the following learning objectives are established:
 
-    1.	Analyze and simulate the transient response of 1st and 2nd order circuits  
-    2.	Analyze electrical circuits using the Laplace transform  
-    3.	Analyze electrical circuits with periodic inputs using the Fourier series
-    4.	Compute the network functions of electrical circuits
-    5.	Analyze circuit stability
-    6.	Design circuits for signal filtering 
+1.	Analyze, simulate, and characterize circuits employing ideal and non-ideal operational amplifiers.
+2.	Understand the constitutive relationships of capacitors and inductors, as well as the concepts of energy storage and power associated with these elements.
+3.	Represent sinusoidal quantities using phasors in both polar and rectangular forms, establishing phasor relationships in circuit elements.
+4.	Understand and apply the concepts of impedance and admittance in alternating current circuits.
+5.	Apply and experimentally validate Kirchhoff’s Laws in the phasor domain.
+6.	Study circuits in the sinusoidal steady-state, including configurations with mutual inductance, using nodal and mesh analysis.
+7.	Employ circuit simplification techniques in the sinusoidal steady-state, including Thévenin and Norton equivalent circuits.
+8.	Derive analytical expressions and analyze the frequency response of passive circuits.
+9.	Simulate and assemble laboratory circuits in the sinusoidal steady-state involving resistors, capacitors, inductors, and operational amplifiers.
+10.	Measure and interpret the frequency response of practical circuits.
+11.	Evaluate power and energy in alternating current circuits, distinguishing active, reactive, and apparent power components.
+12.	Measure electric power and power factor, correlating theoretical, simulated, and experimental results.
+13.	Design circuits operating in sinusoidal steady state and simple filters to meet specified gain, operating frequency, or passband requirements
 
 
 ---
 
 **14. Conteúdo Programático:**
-* [texto em português]: Este componente curricular terá como foco a análise transiente de circuitos elétricos de 1ª e 2ª ordens, abordando conceitos teóricos, simulações e montagens experimentais. A transformada de Laplace e as séries de Fourier também serão utilizadas na análise de circuitos. Serão explorados os conceitos de resposta livre, forçada, transitória e permanente, resposta impulsiva, ao degrau e senoidal, casos oscilatório,  amortecimento crítico e super amortecimento de circuitos de 2ª ordem. Utilizando transformada de Laplace, serão abordados análises nodal e de malhas, funções de rede, frequências complexas próprias,  estabilidade e teoremas de Thévenin, Norton e Superposição. Serão desenvolvidas habilidades no projeto de circuitos para filtragem de sinais.
+* [texto em português]:Este componente curricular aborda o estudo de correntes e tensões em capacitores e indutores, bem como a análise de circuitos envolvendo elementos resistivos e reativos em regime permanente senoidal (RPS), integrando aspectos teóricos e práticos. Os estudantes realizam simulações em ambiente SPICE e aplicam técnicas de simplificação para a resolução de problemas em corrente alternada.
+São explorados os conceitos de fasores, impedância e admitância, bem como a aplicação das Leis de Kirchhoff no domínio fasorial, utilizando-se técnicas de resolução de circuitos por análise nodal, de malhas e obtenção de circuitos equivalentes de Thévenin e Norton em RPS. 
+
+O programa contempla também o estudo da potência e energia em RPS, com avaliação das componentes ativa, reativa e aparente, bem como a análise de circuitos para correção do fator de potência. São abordados ainda circuitos com amplificadores operacionais aplicados ao condicionamento e processamento de sinais em corrente alternada.
+
+As atividades experimentais envolvem a montagem e medição de circuitos reativos em RPS e o levantamento da resposta em frequência, permitindo validar relações fasoriais, medir potência e fator de potência e correlacionar resultados teóricos, simulados e experimentais, bem como projetar circuitos em regime permanente senoidal e filtros simples a partir de especificações de ganho, frequência de operação ou banda passante.
 
 
-* [texto em inglês]: This course focuses on the transient analysis of first- and second-order electrical circuits, addressing theoretical concepts, simulations, and experimental setups. The Laplace transform and Fourier series will also be used as a fundamental tool for circuit analysis. The concepts of natural, forced, transient, and steady-state responses are explored, as well as impulse, step, and sinusoidal responses. Oscillatory behavior, critically damped, and overdamped cases of second-order circuits are also examined. Using the Laplace transform, nodal and mesh analyses are addressed, along with network functions, complex natural frequencies, stability, and the Thévenin, Norton, and Superposition theorems. Skills in designing circuits for signal filtering are also developed.
+* [texto em inglês]: This course addresses the study of currents and voltages in capacitors and inductors, as well as the analysis of circuits involving resistive and reactive elements in the sinusoidal steady-state, integrating theoretical and practical aspects. Students perform simulations in a SPICE environment and apply circuit simplification techniques to solve alternating current problems.
+
+The course explores the concepts of phasors, impedance, and admittance, along with the application of Kirchhoff’s Laws in the phasor domain, using circuit analysis techniques such as nodal and mesh analysis and the determination of Thévenin and Norton equivalent circuits in the sinusoidal steady-state. 
+
+The program further includes the study of power and energy in the sinusoidal steady-state, evaluating active, reactive, and apparent components, as well as the analysis of circuits for power factor correction. Circuits employing operational amplifiers applied to signal conditioning and processing in alternating current are also addressed.
+
+Experimental activities involve the assembly and measurement of reactive circuits in the sinusoidal steady-state and the characterization of frequency response, enabling the validation of phasor relationships, the measurement of power and power factor, and the correlation of theoretical, simulated, and experimental results, as well as design circuits operating in sinusoidal steady state and simple filters based on specifications of gain, operating frequency, or passband.
 
 ---
 
@@ -137,7 +162,7 @@ N° USP 63599 Nome: Vítor Heloiz Nascimento
 
 **18. Normas de recuperação:**
 * [texto em português]: A recuperação será focada nos tópicos de maior dificuldade identificados durante o semestre. O aluno deverá realizar estudos dirigidos e exercícios complementares sobre os conteúdos específicos não atingidos, seguidos de uma nova avaliação para verificar a superação das deficiências.
-* [texto em inglês]: Remedial work will focus on the topics of greatest difficulty identified during the semester. Students must complete guided studies and complementary exercises on the specific contents that were not mastered, followed by a new assessment to verify the resolution of learning gaps.
+* [texto em inglês]: Remedial work will focus on the topics of greatest difficulty identified during the semester. Students must complete guided studies and complementary exercises on the specific contents (Mechanics or Materials) that were not mastered, followed by a new assessment to verify the resolution of learning gaps.
 
 ---
 
